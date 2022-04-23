@@ -4,7 +4,7 @@
 I am a Software Engineer currently freelancing as a Web Developer.
 
 - 🌐 Visit my [porfolio website]
-
+- 🔗  Connect with me on [LinkedIn](https://www.linkedin.com/in/bassel-abdelkader-6b0953221/)!
 
 ---
 
