@@ -5,7 +5,7 @@
 I am a Software Engineer currently freelancing as a Web Developer.
 
 
-![Header](github-header-image.png)
+![Header](github-header-image(1).png)
 
 - 🌐 Visit my [porfolio website]
 - 🔗  Connect with me on [LinkedIn](https://www.linkedin.com/in/bassel-abdelkader/)!
