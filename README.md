@@ -4,7 +4,7 @@
 
 
 - 🔗  Connect with me on [LinkedIn](https://www.linkedin.com/in/bassel-abdelkader/)!
-- 🌐  Visit my [porfolio website](https://bassel.vercel.app/)
+
 
 ---
 
